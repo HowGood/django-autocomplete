@@ -1,0 +1,6 @@
+*.pyc
+*~
+.*.swp
+.installed.cfg
+docs/_build
+.tox
